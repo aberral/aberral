@@ -39,9 +39,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aberral&repo=__&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aberral&repo=utilities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ### :zap: Recent Github Activity
 [![Aberral's github stats](https://github-readme-stats.vercel.app/api?username=aberral&show_icons=true&theme=radical)](https://github.com/aberral/github-readme-stats)
