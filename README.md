@@ -37,11 +37,11 @@
 
 
 
-:zap: Recent Github Activity
-[![Aberral's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/aberral/github-readme-stats)
+:zap: Recent Github Activity<br />
+[![Aberral's github stats](https://github-readme-stats.vercel.app/api?username=aberral&show_icons=true&theme=radical)](https://github.com/aberral/github-readme-stats)
 
-:zap: Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+:zap: Github Stats<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aberral)](https://github.com/anuraghazra/github-readme-stats)
 
   
 [meme]: https://static.wikia.nocookie.net/star-wars-memes/images/f/fe/General_Kenobi%21.jpg/revision/latest/scale-to-width-down/925?cb=20200402023149
