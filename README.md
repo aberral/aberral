@@ -1,6 +1,6 @@
 ### Hello there [!!!!!!!!][meme] I'm Alberto :blush:
 
-## I'm a Bioinformatician/Biologist PhD student, Developer attempt, and Gamer!
+## I'm a Bioinformatician/Biologist PhD student, Budding Developer, and Gamer!
 ### I'm currently a researcher at the Centro de Investigación del Cáncer's (IBMCC-FICUS) [Lab 19][labo] while developing my thesis!
 
 - :microscope: I’m currently working at improving [GEDA][GEDA]!
