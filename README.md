@@ -1,6 +1,7 @@
 ### Hello there[!!!][meme] I'm Alberto :blush:
 
 ## I'm a Bioinformatician/Biologist PhD student, Developer attempt, and Gamer!
+### I'm currently working at Centro de Investigación del Cáncer's (IBMCC-FICUS) [Lab 19][labo] developing my thesis!
 
 - :microscope: I’m currently working at improving [GEDA][GEDA]!
 - :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
@@ -17,8 +18,6 @@
 <br/>
 
 ### Languages and Tools:
-
-
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -37,8 +36,6 @@
 
 ### :zap: Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=aberral&repo=utilities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ### :zap: Recent Github Activity
@@ -48,8 +45,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aberral)](https://github.com/anuraghazra/github-readme-stats)
 
   
-[meme]: https://static.wikia.nocookie.net/star-wars-memes/images/f/fe/General_Kenobi%21.jpg/revision/latest/scale-to-width-down/925?cb=20200402023149
+[meme]: https://static.wikia.nocookie.net/star-wars-memes/images/f/fe/General_Kenobi%21.jpg/revision/latest/scale-to-width-down/163?cb=20200402023149
 [GEDA]: http://cicblade.dep.usal.es/GEDA/
 [NYSA]: https://worldofwarcraft.com/es-es/character/eu/zuljin/nysadra
 [mail]: mailto:aberralgonzalez@usal.es
 [linkedin]: https://www.linkedin.com/in/aberralgonzalez/
+[labo]: http://bioinfow.dep.usal.es/
