@@ -45,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aberral)](https://github.com/anuraghazra/github-readme-stats)
 
   
-[meme]: general.png
+[meme]: /general.png
 [GEDA]: http://cicblade.dep.usal.es/GEDA/
 [NYSA]: https://worldofwarcraft.com/es-es/character/eu/zuljin/nysadra
 [mail]: mailto:aberralgonzalez@usal.es
