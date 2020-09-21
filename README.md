@@ -8,7 +8,7 @@
 - :rocket: 2021 Goals: Finish the year without a brain short circuit and advance my thesis!
 - :full_moon_with_face: **Fun facts**: My coworkers say that I am the orchestra man (always making noises / humming / singing) :eyes:.    I love drawing and [tanking][NYSA] high-end content in World of Warcraft.
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -37,10 +37,10 @@
 
 
 
-:zap: Recent Github Activity<br />
+### :zap: Recent Github Activity
 [![Aberral's github stats](https://github-readme-stats.vercel.app/api?username=aberral&show_icons=true&theme=radical)](https://github.com/aberral/github-readme-stats)
 
-:zap: Github Stats<br />
+### :zap: Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aberral)](https://github.com/anuraghazra/github-readme-stats)
 
   
