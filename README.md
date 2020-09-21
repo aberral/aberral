@@ -3,10 +3,10 @@
 ## I'm a Bioinformatician/Biologist PhD student, Developer attempt, and Gamer!
 
 - :microscope: I’m currently working at improving [GEDA][GEDA]!
-  - :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
-  - :duck: I'm looking to collaborate in other fun projects!
+- :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
+- :duck: I'm looking to collaborate in other fun projects!
 - :rocket: 2021 Goals: Finish the year without a brain short circuit and advance my thesis!
-- :full_moon_with_face: **Fun facts**: <p>My coworkers say that I am the orchestra man (always making noises / humming / singing) :eyes:.</p> <p>I love drawing and [tanking][NYSA] high-end content in World of Warcraft.</p>
+- :full_moon_with_face: **Fun facts**: My coworkers say that I am the orchestra man (always making noises / humming / singing) :eyes:.</p> I love drawing and [tanking][NYSA] high-end content in World of Warcraft.
 
 ### Connect with me:
 
