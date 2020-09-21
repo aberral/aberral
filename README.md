@@ -1,4 +1,4 @@
-### Hello there![:exclamation:][meme] I'm Alberto :blush:
+### Hello there[!!!][meme] I'm Alberto :blush:
 
 ## I'm a Bioinformatician/Biologist PhD student, Developer attempt, and Gamer!
 
