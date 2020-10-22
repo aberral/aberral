@@ -9,6 +9,10 @@
 - :rocket: 2021 Goals: Finish the year without a brain short circuit and advance my thesis!
 - :full_moon_with_face: **Fun facts**: My coworkers say that I am the orchestra man (capable of making noises / humming / singing at the same time):eyes:.    I love drawing and [tanking][NYSA] high-end content in World of Warcraft.
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ttgdon69w23p95plinf7qc6qd)
+
 ### Contact with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
