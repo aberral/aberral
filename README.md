@@ -51,10 +51,10 @@
 -->
 
 ### :zap: Recent Github Activity
-[![Aberral's github stats](https://github-readme-stats.vercel.app/api?username=aberral&show_icons=true&theme=radical)](https://github.com/aberral/github-readme-stats)
+[![Aberral's github stats](github-readme-stats.aberral.vercel.app/api?username=aberral&show_icons=true&theme=radical)](https://github.com/aberral/github-readme-stats)
 
 ### :zap: Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aberral)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats.aberral.vercel.app/api/top-langs/?username=aberral)](https://github.com/aberral/github-readme-stats)
 
   
 [meme]: https://raw.githubusercontent.com/aberral/aberral/master/general.png
