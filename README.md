@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Raksunad Spotify Playing" width="350" />](https://open.spotify.com/user/ttgdon69w23p95plinf7qc6qd)
+[<img src="https://spotify-now-playing.aberral.vercel.app/api/spotify-playing" alt="Raksunad Spotify Playing" width="350" />](https://open.spotify.com/user/ttgdon69w23p95plinf7qc6qd)
 
 ### Contact with me:
 
