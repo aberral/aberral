@@ -1,11 +1,11 @@
 ### Hello there [!!!!!!!!][meme] I'm Alberto :blush:
 
 ## I'm a Bioinformatician/Biologist PhD student, Budding Developer, and Gamer!
-### I'm currently a researcher at the Centro de Investigación del Cáncer's (IBMCC-FICUS) [Lab 19][labo] while developing my thesis!
+### I'm currently a researcher at Bioinformtics and Functional Genomics Group at Cancer Research Center (CIC-IBMCC, CSIC/USAL/IBSAL) [Lab 19][labo] while developing my thesis!
 
 - :microscope: I’m currently working at improving [GEDA][GEDA]!
 - :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
-- :duck: I'm looking to collaborate in other fun projects!
+- :duck: I'm looking to collaborate in other projects! send me a e-mail!
 - :rocket: 2021 Goals: Finish the year without a brain short circuit and advance my thesis!
 - :full_moon_with_face: **Fun facts**: My coworkers say that I am the orchestra man (capable of making noises / humming / singing at the same time):eyes:.    I love drawing and [tanking][NYSA] high-end content in World of Warcraft.
 
