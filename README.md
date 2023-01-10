@@ -7,7 +7,6 @@
 - :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
 - :duck: I'm looking to collaborate in other projects! send me a e-mail!
 - :rocket: 2023 Goals: Finish the year without a brain short circuit and advance my thesis!
-- :full_moon_with_face: **Fun facts**: My coworkers say that I am the orchestra man (capable of making noises / humming / singing at the same time):eyes:.    I love drawing, technology and playing videogames.
 
 ### Spotify Playing 🎧
 
