@@ -5,7 +5,7 @@
 
 - :microscope: I’m currently working at improving [GEDA][GEDA]!
 - :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
-- :duck: I'm looking to collaborate in other projects! send me a e-mail!
+- :duck: I'm looking to collaborate in other projects! send me an e-mail!
 - :rocket: 2023 Goals: Finish the year without a brain short circuit and advance my thesis!
 
 ### Spotify Playing 🎧
