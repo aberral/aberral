@@ -3,7 +3,7 @@
 ## I'm a Bioinformatician/Biologist PhD student, Budding Developer, and Gamer!
 ### I'm currently a researcher at Bioinformtics and Functional Genomics Group at Cancer Research Center (CIC-IBMCC, CSIC/USAL/IBSAL) [Lab 19][labo] while developing my thesis!
 
-- :microscope: I’m currently working at improving [GEDA][GEDA]!
+- :microscope: I’m currently working at improving [ASURI][ASURI] & [GEDA][GEDA]!
 - :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
 - :duck: I'm looking to collaborate in other projects! send me an e-mail!
 - :rocket: 2023 Goals: Finish the year without a brain short circuit and advance my thesis!
@@ -57,6 +57,7 @@
 
   
 [meme]: https://raw.githubusercontent.com/aberral/aberral/master/general.png
+[ASURI]: http://cicblade.dep.usal.es/asuri/
 [GEDA]: http://cicblade.dep.usal.es/GEDA/
 [mail]: mailto:aberralgonzalez@usal.es
 [linkedin]: https://www.linkedin.com/in/aberralgonzalez/
