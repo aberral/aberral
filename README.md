@@ -1,7 +1,7 @@
 ### Hello there [!!!!!!!!][meme] I'm Alberto :blush:
 
 ## I'm a Bioinformatician/Biologist PhD student, Budding Developer, and Gamer!
-### I'm currently a researcher at Bioinformatics and Functional Genomics Group at Cancer Research Center (CIC-IBMCC, CSIC/USAL/IBSAL) [Lab 19][labo] while developing my thesis!
+### I'm currently a researcher at Bioinformatic and Functional Genomic Group at Cancer Research Center (CIC-IBMCC, CSIC/USAL/IBSAL) [Lab 19][labo] while finishing my thesis!
 
 - :microscope: I’m currently working at improving [ASURI][ASURI] & [GEDA][GEDA]!
 - :seedling: I'm learning everything, but I'm focused on improving my statistics! :nerd_face: 
